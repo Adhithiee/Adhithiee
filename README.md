@@ -18,9 +18,9 @@ I enjoy transforming data into insights and building meaningful tech solutions t
 ## 🛠️ Technical Skills  
 
 ### 💻 Programming & Tools  
-- **Languages:** Python, Java, C  
+- **Languages:** Python, Java, C, SQL 
 - **Frameworks & Tools:** Flutter, Power BI  
-- **Concepts:** Data Structures, Data Analysis, Machine Learning  
+- **Concepts:** Data Analysis,Data Visualization, Machine Learning  
 
 ### 🌟 Soft Skills  
 - Professional Communication  
