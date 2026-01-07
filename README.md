@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Adhithiee Suresh  
 
-🎓 **B.E. Computer Science & Engineering (2nd Year)**  
+🎓 **B.E. Computer Science & Engineering (3rd Year)**  
 📍 KPR Institute of Engineering and Technology, Coimbatore  
 🤖 AI/ML | 📊 Data Analytics | 💻 Flutter Developer  
 
