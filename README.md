@@ -7,12 +7,10 @@
 ---
 
 ## 🚀 About Me  
-I am a **Computer Science student specializing in AI/ML**, with a strong focus on **Data Analytics and Visualization**.  
-I enjoy transforming data into insights and building meaningful tech solutions that create social impact.  
+Dedicated Computer Science student specializing in AI/ML with a strong focus on Data Analytics. 
+Eager to apply theoretical knowledge and practical experience in AI/ML, data analysis and visualization.
 
-- 🔍 Interested in **AI, ML, Data Science & Analytics**
-- 🎤 Experienced in **public speaking, leadership & professional communication**
-
+**
 ---
 
 ## 🛠️ Technical Skills  
@@ -31,22 +29,6 @@ I enjoy transforming data into insights and building meaningful tech solutions t
 - Content Writing  
 - Blog Writing  
 - Designing  
-
----
-
-## 🏆 Activities & Achievements  
-
-- 🧩 **Project Presentation – Innovsense**  
-  (Sign Language Learning App)  
-
-- ⚡ **Hackathon – Intel GenAI**  
-  Digitalizing Healthcare Mobile App  
-
-- 🎙️ **Public Speaking**  
-  Master of Ceremony, MUN, Debate, Group Discussion, Panel Discussion  
-
-- 🌱 **Outreach Program**  
-  Drug & Abuse Awareness Program for Government School Students  
 
 ---
 
