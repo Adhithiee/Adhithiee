@@ -10,7 +10,6 @@
 Dedicated Computer Science student specializing in AI/ML with a strong focus on Data Analytics. 
 Eager to apply theoretical knowledge and practical experience in AI/ML, data analysis and visualization.
 
-**
 ---
 
 ## 🛠️ Technical Skills  
